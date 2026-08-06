@@ -1,7 +1,13 @@
+## EX.NO-1
+## CREATING A PRIVATE BLOCKCHAIN
+## Date : 03/08/2026
 
-EX.NO-1
-CREATING A PRIVATE DATE: BLOCKCHAIN
-AIM
+```
+Name : W Allen Johnston Ozario
+Reg. No : 212224110004
+```
+
+### AIM
 To create a Private Blockchain and to add nodes, create accounts, transfer Ether into it by creating
 and deploying Smart contract.
 PROCEDURE
@@ -112,11 +118,22 @@ return name;
 }
 }
 ```
-OUTPUT
-# Deploying Transaction in Remix
-7
-# Contract Creation Output in Command Prompt
-<img width="1180" height="492" alt="image" src="https://github.com/user-attachments/assets/fc0eaa31-1340-4c3e-8410-3ca49a1f4dcd" />
+### OUTPUT
 
-RESULT: Thus, the Private Blockchain is created, nodes are added with accounts, and Ether is transferred
+# Deploying Transaction in Remix
+<img width="1912" height="1132" alt="Screenshot 2026-08-02 230700" src="https://github.com/user-attachments/assets/f9e1ae5c-656f-430d-98e3-431cacd2dcc4" />
+
+<img width="391" height="627" alt="Screenshot 2026-08-02 231009" src="https://github.com/user-attachments/assets/f99baf28-29c3-45b2-8009-99bf7f1a8d62" />
+
+
+# Contract Creation Output in Command Prompt
+<img width="1917" height="1198" alt="Screenshot 2026-08-02 230806" src="https://github.com/user-attachments/assets/c9407d53-b99e-480f-8bcf-cb2ece93af24" />
+
+<img width="1917" height="1192" alt="Screenshot 2026-08-02 230810" src="https://github.com/user-attachments/assets/7d393a50-1962-44b1-aee0-956e0f050f6b" />
+
+<img width="1917" height="1198" alt="Screenshot 2026-08-02 230815" src="https://github.com/user-attachments/assets/92bdd81b-7ee1-4021-be39-0c959bff2db4" />
+
+
+### RESULT: 
+Thus, the Private Blockchain is created, nodes are added with accounts, and Ether is transferred
 into it by creating and deploying Smart contract successfully
