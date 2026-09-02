@@ -1,11 +1,8 @@
 ## EX.NO-1
 ## CREATING A PRIVATE BLOCKCHAIN
-## Date : 03/08/2026
 
-```
-Name : W Allen Johnston Ozario
-Reg. No : 212224110004
-```
+
+
 
 ### AIM
 To create a Private Blockchain and to add nodes, create accounts, transfer Ether into it by creating
